@@ -1,1 +1,39 @@
-
+body
+{
+    background-color: cornflowerblue;
+}
+#TopHeader
+{
+    text-align: center;
+}
+#MenuBarDiv
+{
+    width: 100%;
+    top: 0;
+    text-align: center;
+    position: fixed;
+    background-color: deepskyblue;
+    display: flex;
+    justify-content: space-evenly;
+    #school
+    {
+        font-family: Jost, serif;
+        font-size: large;
+        font-weight: bold;
+        background-color: royalblue;
+    }
+    #sports
+    {
+        font-family: Jost, serif;
+        font-size: large;
+        font-weight: bold;
+        background-color: royalblue;
+    }
+    #work
+    {
+        font-family: Jost, serif;
+        font-size: large;
+        font-weight: bold;
+        background-color: royalblue;
+    }
+}
