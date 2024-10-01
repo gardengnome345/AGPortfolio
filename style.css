@@ -37,3 +37,36 @@ body
         background-color: royalblue;
     }
 }
+#SchoolDiv
+{
+    h2
+    {
+        font-size: 250%;
+    }
+    p
+    {
+        font-size: 200%;
+    }
+}
+#SportsDiv
+{
+    h2
+    {
+        font-size: 250%;
+    }
+    p
+    {
+        font-size: 200%;
+    }
+}
+#WorkDiv
+{
+    h2
+    {
+        font-size: 250%;
+    }
+    p
+    {
+        font-size: 200%;
+    }
+}
