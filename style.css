@@ -40,6 +40,8 @@ body
 }
 #SchoolDiv
 {
+    padding-top: 10px;
+    padding-bottom: 150px;
     font-family: Verdana, serif;
     h2
     {
@@ -52,6 +54,9 @@ body
 }
 #SportsDiv
 {
+    padding-top: 10px;
+    font-size: 200%;
+    padding-bottom: 50px;
     font-family: Verdana, serif;
     h2
     {
@@ -64,6 +69,9 @@ body
 }
 #WorkDiv
 {
+    padding-top: 10px;
+    font-size: 200%;
+    padding-bottom: 400px;
     font-family: Verdana, serif;
     h2
     {
